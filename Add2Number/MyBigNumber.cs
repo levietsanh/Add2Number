@@ -15,7 +15,7 @@ namespace Add2Number
             int lengthMax = num1Length > num2Length ? num1Length : num2Length;
             String result = String.Empty;
             int temp = 0;
-            int indexNum1, indexNum2; // num1I luu lai vi tri ky tu cua chuoi num 1 (theo chieu phai sang trai),num2I tuong tu
+            int indexNum1, indexNum2; // indexNum1 luu lai vi tri ky tu cua chuoi num 1 (theo chieu phai sang trai), indexNum2 tuong tu
             char c1, c2; // c1 lay ky tu, c2 tuong tu
             int digit1, digit2; // digit1 chuyen ky tu thanh so
             int mem = 0;
