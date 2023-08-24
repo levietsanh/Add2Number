@@ -1,0 +1,15 @@
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\bin\Debug\net6.0\Add2Number.exe
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\bin\Debug\net6.0\Add2Number.deps.json
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\bin\Debug\net6.0\Add2Number.runtimeconfig.json
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\bin\Debug\net6.0\Add2Number.dll
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\bin\Debug\net6.0\Add2Number.pdb
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.csproj.AssemblyReference.cache
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.AssemblyInfoInputs.cache
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.AssemblyInfo.cs
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.csproj.CoreCompileInputs.cache
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.dll
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\refint\Add2Number.dll
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.pdb
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\Add2Number.genruntimeconfig.cache
+E:\Users\levie\Documents\CSharp\Project\Add2Number\Add2Number\Add2Number\obj\Debug\net6.0\ref\Add2Number.dll
