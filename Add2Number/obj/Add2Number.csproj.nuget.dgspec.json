@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number\\Add2Number.csproj": {}
+    "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number.csproj": {}
   },
   "projects": {
-    "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number\\Add2Number.csproj": {
+    "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number\\Add2Number.csproj",
+        "projectUniqueName": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number.csproj",
         "projectName": "Add2Number",
-        "projectPath": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number\\Add2Number.csproj",
+        "projectPath": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number.csproj",
         "packagesPath": "C:\\Users\\levie\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\Add2Number\\obj\\",
+        "outputPath": "E:\\Users\\levie\\Documents\\CSharp\\Project\\Add2Number\\Add2Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\levie\\AppData\\Roaming\\NuGet\\NuGet.Config",
